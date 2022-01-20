@@ -21,6 +21,7 @@ module.exports = {
         printWidth: 80,
         bracketSpacing: true,
         arrowParens: 'avoid',
+        endOfLine: 'auto',
       },
     ],
   },
@@ -28,3 +29,4 @@ module.exports = {
     parser: '@typescript-eslint/parser',
   },
 };
+
